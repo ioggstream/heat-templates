@@ -1,0 +1,5 @@
+heat_template_version: newton
+
+resources:
+  a_file:
+    type: fog_2.yaml
